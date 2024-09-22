@@ -1,8 +1,8 @@
 # React + Vite
+The objective of this task is to create a web page with routes using react-router-dom
+I created that navigation to courses using React Router DOM,
+Here, I Understand how React Router works to manage navigation within a React application,
+and Learned how to use these components to create navigational links within your React components.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Demo==>https://guvi-blog-clone-reactrouter.netlify.app/
