@@ -1,6 +1,8 @@
 
 import React from "react";
 import Card from "./card.jsx";
+import CardMap from './components/CardMap'; 
+
 
 
 function CardMap({ data, val }) {
