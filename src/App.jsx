@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import TopNav from "./topnav.jsx";
-import Nav from "./Nav";
+import Nav from "./nav.jsx";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import CardMap from "./CardMap";
 import Card from "./card.jsx";
