@@ -1,5 +1,5 @@
 # Guvi Blog Clone 📝
-# About
+# Introduction
 
 - The Guvi Blog Clone is a responsive and visually appealing blog page inspired by Guvi's official blog platform.
 - Built using React, this project showcases the power of component-based architecture and modern front-end development techniques.
