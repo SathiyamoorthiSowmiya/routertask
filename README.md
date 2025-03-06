@@ -30,6 +30,21 @@
 - Open index.html in your browser.
 - Browse different blog categories and read articles.
 - Modify the content to add your own blogs easily.
+  
+ ## Install Dependencies
+
+npm install
+
+## Run the Development Server
+
+npm run dev
+
+## Build for Production
+npm run build
+
+## 🚀 Deployment
+
+Netlify
 
 # Contact 📧
 For any queries or collaboration, reach out to me at:
